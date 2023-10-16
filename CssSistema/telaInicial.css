@@ -1,0 +1,41 @@
+.texto{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 38px;
+}
+@media (min-width: 992px) {
+  body{
+    background-image: url("../Imagens Sistema/OndasBaixo.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 100vw;
+  }
+  header{
+    background: linear-gradient(90deg, #3296D8 0%, #3BA5EC 37.54%, #40AFF9 73.54%);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.65);
+  }
+  .mainBackground {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.041) 0%,rgba(91,157,255,1) 1%, rgba(61,188,255,0.77) 30%, rgba(96,214,252,0.65) 70%, rgba(235,236,240,0) 100%);
+  }
+  
+}
+@media(max-width: 991px){
+  body{
+    background: linear-gradient(180deg, #5B9DFF 15.56%, rgba(61, 188, 255, 0.494792) 38.96%, rgba(96, 214, 252, 0.392812) 64.39%, rgba(152, 236, 245, 0.232586) 99.99%, rgba(235, 236, 240, 0) 100%);
+  }
+  
+  header{
+    background-image: url("../Imagens Sistema/OndasTopMobile.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100vw;
+  }
+  main{
+    background-image: url("../Imagens Sistema/OndasBaixoMobile.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 100vw;
+  }
+}
