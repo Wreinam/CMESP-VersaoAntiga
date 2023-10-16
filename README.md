@@ -1,0 +1,3 @@
+# CMESP - Cadastro municipal Esportivo
+
+A secretaria de esportes de São Sebastião passa todo ano por um acúmulo de estresse, ocorrido pelo excesso de trabalho que possuem na época de inscrição de novos alunos, todas as etapas são concluídas com sucesso atualmente, porém com atrasos e várias interrupções e contratempos. O gerenciamento dessas inscrições e das aulas que ocorrem em geral, são parte da gestão e administração da Secretaria de esportes, dado esse problema eles vieram até nos com a intenção de que automatizássemos e simplificássemos o seu trabalho no dia a dia desenvolvendo uma aplicação que englobasse todos os envolvidos do processo os dando acesso nivelado ao sistema. 
